@@ -27,6 +27,7 @@
     "@distube/ytdl-core": "^4.15.6",
     "@faouzkk/baileys": "^1.0.2",
     "@faouzkk/lyrics-finder": "^1.0.3",
+    "@faouzkk/tiktok-dl": "^1.0.1",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
     "@xaviabot/fb-downloader": "^1.0.14",
